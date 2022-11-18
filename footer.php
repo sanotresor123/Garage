@@ -1,0 +1,1 @@
+<center><p>Copyright &copy; Reserved By CarWash 2022.</p></center>
